@@ -13,6 +13,7 @@ Is there a correlation between GDP growth rate and emission rate?
 
 Critical time point analysis:
 At this stage, we intended to investigate the critical time point that may change the global CO2 emission and socio-economic status from 1989-2020. 
+
 Specific questions:
 How does the change of economic status influence the CO2 emission pattern during the depression around 2008? 
 How do countries respond to the Paris Agreement? How do countries respond to the COVID-19?
